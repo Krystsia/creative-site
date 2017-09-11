@@ -11,6 +11,7 @@ import { HomeComponent } from './home/home.component';
 import { HeaderComponent } from './header/header.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MdButtonModule } from '@angular/material';
+import { MdMenuModule } from '@angular/material';
 
 
 @NgModule({
@@ -22,12 +23,17 @@ import { MdButtonModule } from '@angular/material';
     HeaderComponent
   ],
   imports: [
+    BrowserModule,
     BrowserAnimationsModule,
     MdButtonModule,
-    BrowserModule,
+    MdMenuModule,
     FormsModule,
     HttpModule,
     AppRoutingModule,
+  ],
+  exports: [
+    BrowserAnimationsModule,
+    MdButtonModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

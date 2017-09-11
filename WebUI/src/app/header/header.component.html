@@ -1,18 +1,9 @@
-<md-menu xPosition="after">
+<md-menu #appMenu="mdMenu">
   <button md-menu-item [routerLink]="['home']" routerLinkActive="active"> Home </button>
   <button md-menu-item [routerLink]="['works']" routerLinkActive="active"> Works </button>
   <button md-menu-item [routerLink]="['blog']" routerLinkActive="active"> Blog </button>
 </md-menu>
 
-<md-sidenav-container class="example-container">
-  <md-sidenav #sidenav class="example-sidenav">
-    hello world!
-  </md-sidenav>
-<div class="example-sidenav-content">
-  <button type="button" md-button (click)="sidenav.open()">
-    Open sidenav
-  </button>
-</div>
-
-  <!-- primary content -->
-</md-sidenav-container>
+<button md-icon-button [mdMenuTriggerFor]="appMenu">
+   <md-icon>more_vert</md-icon>
+</button>
