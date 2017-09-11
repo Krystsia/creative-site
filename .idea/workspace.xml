@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7bfa5135-8b59-4d2a-a148-37102e8d3388" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/assets/.gitkeep" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/favicon.ico" />
@@ -56,6 +57,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/tsconfig.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/tslint.json" />
     </list>
+=======
+    <list default="true" id="d2ec26c5-0988-40ad-ab72-1e83ae223b20" name="Default" comment="" />
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -67,6 +71,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.component.spec.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebUI/src/app/app.component.spec.ts">
@@ -170,6 +175,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="3213" column="20" lean-forward="false" selection-start-line="3213" selection-start-column="20" selection-end-line="3213" selection-end-column="35" />
+=======
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
               <folding />
             </state>
           </provider>
@@ -177,6 +190,7 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Inject(</find>
@@ -214,12 +228,15 @@
       <replace>WorksComponent</replace>
     </replaceStrings>
   </component>
+=======
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/WebUI/src/index.html" />
         <option value="$PROJECT_DIR$/WebUI/src/app/works/works-component/works-component.component.html" />
         <option value="$PROJECT_DIR$/WebUI/src/app/works/services/get-date.service.ts" />
@@ -234,10 +251,14 @@
         <option value="$PROJECT_DIR$/WebUI/src/app/header/header.component.css" />
         <option value="$PROJECT_DIR$/WebUI/src/app/header/header.component.html" />
         <option value="$PROJECT_DIR$/WebUI/src/styles.css" />
+=======
+        <option value="$PROJECT_DIR$/.gitignore" />
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+<<<<<<< HEAD
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
@@ -245,12 +266,17 @@
     <annotation-enable>false</annotation-enable>
     <other-services-enabled>false</other-services-enabled>
     <auto-save>true</auto-save>
+=======
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+<<<<<<< HEAD
     <handled-path value="$PROJECT_DIR$/WebUI/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -258,6 +284,15 @@
     <option name="y" value="46" />
     <option name="width" value="1920" />
     <option name="height" value="957" />
+=======
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="66" />
+    <option name="y" value="87" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -268,13 +303,21 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
+<<<<<<< HEAD
       <autoscrollFromSource ProjectPane="true" />
+=======
+      <autoscrollFromSource />
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,6 +325,7 @@
               <item name="creative-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="creative-site" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="creative-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="creative-site" type="462c0819:PsiDirectoryNode" />
@@ -344,10 +388,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
     </panes>
   </component>
@@ -368,6 +415,13 @@
       <recent name="D:\angular2\creative-site\WebUI\src\app\works-component" />
       <recent name="D:\angular2\creative-site\WebUI\src\app" />
     </key>
+=======
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -384,6 +438,7 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+<<<<<<< HEAD
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -398,10 +453,21 @@
       <workItem from="1504605250910" duration="593000" />
       <workItem from="1504698663558" duration="599000" />
       <workItem from="1504700760297" duration="7722000" />
+=======
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2ec26c5-0988-40ad-ab72-1e83ae223b20" name="Default" comment="" />
+      <created>1502744563932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502744563932</updated>
+      <workItem from="1504096762971" duration="533000" />
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="50572000" />
   </component>
   <component name="ToolWindowManager">
@@ -444,6 +510,32 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
+=======
+    <option name="totallyTimeSpent" value="533000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="66" y="87" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -456,6 +548,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/WebUI/node_modules/@angular/router/bundles/router.umd.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -875,6 +968,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+>>>>>>> eb9dc84f870ce53270ff4d82c2ce9e6592ea40bc
           <folding />
         </state>
       </provider>
