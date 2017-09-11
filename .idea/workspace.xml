@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bfa5135-8b59-4d2a-a148-37102e8d3388" name="Default" comment="" />
+    <list default="true" id="7bfa5135-8b59-4d2a-a148-37102e8d3388" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/creative-site.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/.angular-cli.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/e2e/app.e2e-spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/e2e/app.po.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/e2e/tsconfig.e2e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/app-routing/app-routing.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/app.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/app.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/app.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/blog/blog.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/blog/blog.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/blog/blog.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/blog/blog.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/header/header.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/header/header.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/header/header.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/header/header.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/home/home.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/home/home.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/home/home.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/home/home.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/works/services/get-date.service.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/works/services/get-date.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/works/works.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/works/works.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/works/works.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/app/works/works.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/environments/environment.prod.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/environments/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/polyfills.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/tsconfig.app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/tsconfig.spec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/src/typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUI/tslint.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -343,12 +397,12 @@
       <workItem from="1502790996223" duration="41658000" />
       <workItem from="1504605250910" duration="593000" />
       <workItem from="1504698663558" duration="599000" />
-      <workItem from="1504700760297" duration="7646000" />
+      <workItem from="1504700760297" duration="7722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50496000" />
+    <option name="totallyTimeSpent" value="50572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
